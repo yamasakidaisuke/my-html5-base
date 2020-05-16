@@ -7,4 +7,5 @@ HTML5のテンプレート
 * リセットCSSは[https://creive.me/archives/10438/]参考
 * 1remは10px調整 font-size:62.5%
 * jqueryは都度調整要す
-* OGP（Open Graph Protocol）（オープン・グラフ・プロトコル）は[https://haniwaman.com/ogp/]が分かりやすい
+* OGP（Open Graph Protocol）（オープン・グラフ・プロトコル）は [https://haniwaman.com/ogp/] が分かりやすい
+* パンくずはGoogle 検索デベロッパー ガイドを参照すること [https://developers.google.com/search/docs/data-types/breadcrumb?hl=ja]
